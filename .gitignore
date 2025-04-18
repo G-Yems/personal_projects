@@ -32,3 +32,6 @@ vendor/
 # Ignore the virtual environment(s)
 .venv
 
+# Ignoring specific folder for the discord bot project 
+discord_bot/__pycache__/
+discord_bot/admin_doc/
